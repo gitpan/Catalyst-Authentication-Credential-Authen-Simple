@@ -1,6 +1,7 @@
 package Catalyst::Authentication::Credential::Authen::Simple;
-
-our $VERSION = '0.07';
+{
+  $Catalyst::Authentication::Credential::Authen::Simple::VERSION = '0.09';
+}
 
 use strict;
 use warnings;

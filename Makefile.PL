@@ -28,7 +28,7 @@ my %WriteMakefileArgs = (
     "Catalyst::Runtime" => "5.7",
     "parent" => 0
   },
-  "VERSION" => "0.08",
+  "VERSION" => "0.09",
   "test" => {
     "TESTS" => "t/*.t"
   }

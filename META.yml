@@ -20,6 +20,6 @@ requires:
   Catalyst::Runtime: 5.7
   parent: 0
 resources:
-  homepage: http://search.cpan.org/dist/Catalyst-Authentication-Credential-Authen-Simple/
-  repository: git://github.com/gitpan/Catalyst-Authentication-Credential-Authen-Simple.git
-version: 0.08
+  homepage: http://metacpan.org/release/Catalyst-Authentication-Credential-Authen-Simple/
+  repository: git://github.com/miquelruiz/Catalyst-Authentication-Credential-Authen-Simple.git
+version: 0.09
